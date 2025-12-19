@@ -1,4 +1,4 @@
-PhantomPay 💸
+# PhantomPay
 
 AI-Powered Invoice Risk Scoring & Intelligent Payment Reminders
 
@@ -10,7 +10,7 @@ This project was built as both a technical exploration of applied AI and a produ
 
 Invoice Risk Scoring
 
-Predicts likelihood of late or missed payments
+Predicts the likelihood of late or missed payments
 
 Uses historical invoice behavior and metadata
 
@@ -48,7 +48,7 @@ ML model assigns a risk score (low → high)
 
 Strategy Selection
 
-Reinforcement learning agent selects a reminder strategy
+A reinforcement learning agent selects a reminder strategy
 
 Email Generation
 
@@ -90,22 +90,6 @@ GitHub
 
 Hackathon-friendly architecture
 
-📂 Project Structure (Example)
-phantomp ay/
-├── app/
-│   ├── main.py
-│   ├── routes/
-│   ├── services/
-│   ├── models/
-│   └── agents/
-├── data/
-│   ├── invoices.csv
-│   └── customers.csv
-├── notebooks/
-│   └── experiments.ipynb
-├── README.md
-└── requirements.txt
-
 📊 Example Use Cases
 
 Small businesses chasing overdue invoices
@@ -145,10 +129,6 @@ A/B testing framework for reminder strategies
 Viplav Dodeja
 Undergraduate CS Student | AI/ML & Product Engineering
 📍 San Francisco Bay Area
-
-LinkedIn: (add link)
-
-Portfolio: https://sites.google.com/view/viplav-portfolio/home
 
 📜 License
 
